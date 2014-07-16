@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <cmap>
+    <tableVersion version="0"/>
+    <cmap_format_4 platformID="3" platEncID="1" language="0">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+    </cmap_format_4>
+    <cmap_format_12 platformID="3" platEncID="10" format="12" reserved="0" length="388" language="0" nGroups="31">
+      <map code="0x0" name="uniFEFF"/><!-- &lt;control> -->
+      <map code="0xd" name="uni000D"/><!-- &lt;control> -->
+      <map code="0x20" name="uni00A0"/><!-- SPACE -->
+      <map code="0xa0" name="uni00A0"/><!-- NO-BREAK SPACE -->
+      <map code="0xfeff" name="uniFEFF"/><!-- ZERO WIDTH NO-BREAK SPACE -->
+      <map code="0x10380" name="glyph00034"/><!-- UGARITIC LETTER ALPA -->
+      <map code="0x10381" name="glyph00004"/><!-- UGARITIC LETTER BETA -->
+      <map code="0x10382" name="glyph00005"/><!-- UGARITIC LETTER GAMLA -->
+      <map code="0x10383" name="glyph00006"/><!-- UGARITIC LETTER KHA -->
+      <map code="0x10384" name="glyph00011"/><!-- UGARITIC LETTER DELTA -->
+      <map code="0x10385" name="glyph00013"/><!-- UGARITIC LETTER HO -->
+      <map code="0x10386" name="glyph00031"/><!-- UGARITIC LETTER WO -->
+      <map code="0x10387" name="glyph00014"/><!-- UGARITIC LETTER ZETA -->
+      <map code="0x10388" name="glyph00008"/><!-- UGARITIC LETTER HOTA -->
+      <map code="0x10389" name="glyph00015"/><!-- UGARITIC LETTER TET -->
+      <map code="0x1038a" name="glyph00016"/><!-- UGARITIC LETTER YOD -->
+      <map code="0x1038b" name="glyph00033"/><!-- UGARITIC LETTER KAF -->
+      <map code="0x1038c" name="glyph00017"/><!-- UGARITIC LETTER SHIN -->
+      <map code="0x1038d" name="glyph00012"/><!-- UGARITIC LETTER LAMDA -->
+      <map code="0x1038e" name="glyph00029"/><!-- UGARITIC LETTER MEM -->
+      <map code="0x1038f" name="glyph00027"/><!-- UGARITIC LETTER DHAL -->
+      <map code="0x10390" name="glyph00007"/><!-- UGARITIC LETTER NUN -->
+      <map code="0x10391" name="glyph00025"/><!-- UGARITIC LETTER ZU -->
+      <map code="0x10392" name="glyph00024"/><!-- UGARITIC LETTER SAMKA -->
+      <map code="0x10393" name="glyph00023"/><!-- UGARITIC LETTER AIN -->
+      <map code="0x10394" name="glyph00019"/><!-- UGARITIC LETTER PU -->
+      <map code="0x10395" name="glyph00020"/><!-- UGARITIC LETTER SADE -->
+      <map code="0x10396" name="glyph00021"/><!-- UGARITIC LETTER QOPA -->
+      <map code="0x10397" name="glyph00032"/><!-- UGARITIC LETTER RASHA -->
+      <map code="0x10398" name="glyph00026"/><!-- UGARITIC LETTER THANNA -->
+      <map code="0x10399" name="glyph00030"/><!-- UGARITIC LETTER GHAIN -->
+      <map code="0x1039a" name="glyph00018"/><!-- UGARITIC LETTER TO -->
+      <map code="0x1039b" name="glyph00022"/><!-- UGARITIC LETTER I -->
+      <map code="0x1039c" name="glyph00028"/><!-- UGARITIC LETTER U -->
+      <map code="0x1039d" name="glyph00009"/><!-- UGARITIC LETTER SSU -->
+      <map code="0x1039f" name="glyph00010"/><!-- UGARITIC WORD DIVIDER -->
+    </cmap_format_12>
+  </cmap>
+
+</ttFont>
