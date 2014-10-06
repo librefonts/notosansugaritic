@@ -1,0 +1,24 @@
+{
+  "name": "Noto Sans Ugaritic",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 5437,
+  "fonts": [
+    {
+      "name": "Noto Sans Ugaritic",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSansUgaritic-Regular.ttf",
+      "postScriptName": "NotoSansUgaritic",
+      "fullName": "Noto Sans Ugaritic",
+      "copyright": "Copyright 2013 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
